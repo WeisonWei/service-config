@@ -1,2 +1,2 @@
-# service-config
+# spring-cloud-config
 service-config
